@@ -999,50 +999,6 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
 
 ---
 
-# Suggested GitHub repository structure
-
-For publication, the following structure keeps the software, documentation and media easy to understand:
-
-```text
-Phoenix-Librarian/
-│
-├── README.md
-├── LICENSE
-├── CHANGELOG.md
-│
-├── release/
-│   └── Phoenix_Librarian_v1.0.0.zip
-│
-├── src/
-│   ├── PhoenixLibrarian.ps1
-│   └── Start_Phoenix_Librarian.cmd
-│
-├── docs/
-│   ├── INSTALLATION.md
-│   ├── USER_GUIDE.md
-│   ├── AUDIO_ENGINE.md
-│   ├── PHOENIX_FILE_FORMAT.md
-│   └── DEVELOPMENT_HISTORY.md
-│
-├── images/
-│   ├── phoenix-librarian-main.png
-│   ├── waveform-editor.png
-│   ├── quattro-routing.png
-│   ├── pattern-editor.png
-│   ├── song-editor.png
-│   └── backup-restore.png
-│
-├── testdata/
-│   └── ...
-│
-└── examples/
-    └── ExampleBank/
-```
-
-For the first GitHub release it is perfectly reasonable to keep v1.0.0 as one downloadable ZIP under **GitHub Releases** while putting the readable source and documentation in the repository itself.
-
----
-
 # Screenshots and media
 
 The project benefits greatly from visual documentation. Suggested screenshots are:
