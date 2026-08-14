@@ -1003,7 +1003,7 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
 
 1. **Main window / Bank Overview** — immediate overview of the application.
 <p align="center">
-<img src="images/RTAL_Studio_21.JPG" width="900">  
+<img src="images/RTAL_Wellenbad_Bankuebersicht.JPG" width="900">  
   
 2. **Waveform Editor** — show S.START, L.START, L.END and S.END.
 <p align="center">
@@ -1015,7 +1015,7 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
 
 4. **Quattro MULTI** — show the four independent MIDI channels.
 <p align="center">
-<img src="images/RTAL_Studio_21.JPG" width="900">   
+<img src="images/RTAL_Wellenbad_Quattro-Routing-Multi.JPG" width="900">   
   
 5. **Pattern Editor** — demonstrate that Phoenix includes sequencing, not only sample management.
 <p align="center">
@@ -1023,7 +1023,7 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
   
 6. **Song Editor** — show complete arrangement editing.
 <p align="center">
-<img src="images/RTAL_Studio_21.JPG" width="900">    
+<img src="images/RTAL_Wellenbad_Song-Editor.JPG" width="900">    
   
 7. **MIDI & Keyboard** — demonstrate live PC audition.
 <p align="center">
@@ -1031,11 +1031,7 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
   
 8. **Backup & Restore** — emphasize data safety.
 <p align="center">
-<img src="images/RTAL_Studio_21.JPG" width="900">  
-  
-9. **Phoenix hardware + PC together** — the best image for explaining the hardware/software relationship.
-<p align="center">
-<img src="images/RTAL_Studio_21.JPG" width="900">
+<img src="images/RTAL_Wellenbad_Backup-Restore.JPG" width="900">  
   
 ---
 
