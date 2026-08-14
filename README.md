@@ -1035,58 +1035,6 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
   
 ---
 
-# Recommended GitHub release contents
-
-For **v1.0.0** I recommend publishing:
-
-- `Phoenix_Librarian_v1_0_0.zip`
-- source code
-- this `README.md`
-- a concise `CHANGELOG.md`
-- `LICENSE`
-- 5–8 screenshots
-- one short GIF or MP4 demonstration
-- optionally one small public-domain / self-created example bank
-
-The GitHub Release description should mention that **v1.0.0 is the frozen stable release basis** and highlight:
-
-- Phoenix bank management
-- graphical sample/loop editing
-- KEYZONE + MULTI routing
-- Pattern + Song editing
-- Backup & Restore
-- Factory Library tools
-- MIDI + screen keyboard
-- stable low-latency WASAPI preview
-- on-demand audio-device ownership
-
----
-
-# Suggested repository topics
-
-Useful GitHub topics could include:
-
-```text
-sampler
-esp32
-esp32-s3
-midi
-audio-dsp
-wav
-wav-editor
-sample-editor
-librarian
-powershell
-wpf
-wasapi
-embedded-audio
-music-technology
-synthesizer
-realtime-audio
-```
-
----
-
 # Project status
 
 **Phoenix Librarian v1.0.0 is frozen as the stable release basis.**
