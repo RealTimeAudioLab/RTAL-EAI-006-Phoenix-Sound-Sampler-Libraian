@@ -1011,7 +1011,7 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
   
 3. **Quattro KEYZONE** — visually explain keyboard mapping.
 <p align="center">
-<img src="images/RTAL_Wellenbad_Quattro-Routing.jpg" width="900">
+<img src="images/RTAL_Wellenbad_Quattro-Routing.JPG" width="900">
 
 4. **Quattro MULTI** — show the four independent MIDI channels.
 <p align="center">
