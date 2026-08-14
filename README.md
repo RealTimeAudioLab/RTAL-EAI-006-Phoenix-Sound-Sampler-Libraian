@@ -1001,29 +1001,42 @@ Phoenix Librarian v1.0.0 is a Windows companion editor, and several boundaries a
 
 # Screenshots and media
 
-The project benefits greatly from visual documentation. Suggested screenshots are:
-
 1. **Main window / Bank Overview** — immediate overview of the application.
+<p align="center">
+<img src="images/RTAL_Studio_21.jpg" width="900">  
+  
 2. **Waveform Editor** — show S.START, L.START, L.END and S.END.
+<p align="center">
+<img src="images/RTAL_Wellenbad_Waveform-Editor.jpg" width="900">  
+  
 3. **Quattro KEYZONE** — visually explain keyboard mapping.
+<p align="center">
+<img src="images/RTAL_Wellenbad_Quattro-Routing.jpg" width="900">
+
 4. **Quattro MULTI** — show the four independent MIDI channels.
+<p align="center">
+<img src="images/RTAL_Studio_21.jpg" width="900">   
+  
 5. **Pattern Editor** — demonstrate that Phoenix includes sequencing, not only sample management.
+<p align="center">
+<img src="images/RTAL_Wellenbad_Sequencer.jpg" width="900">    
+  
 6. **Song Editor** — show complete arrangement editing.
+<p align="center">
+<img src="images/RTAL_Studio_21.jpg" width="900">    
+  
 7. **MIDI & Keyboard** — demonstrate live PC audition.
+<p align="center">
+<img src="images/RTAL_Wellenbad_Midi.jpg" width="900">    
+  
 8. **Backup & Restore** — emphasize data safety.
+<p align="center">
+<img src="images/RTAL_Studio_21.jpg" width="900">  
+  
 9. **Phoenix hardware + PC together** — the best image for explaining the hardware/software relationship.
-
-A short animated GIF or MP4 showing:
-
-```text
-Bank select → Waveform → move loop marker → Loop Hold → save → play on Phoenix
-```
-
-would be especially effective at the top of the GitHub page.
-
-<!-- IMAGE PLACEHOLDER: Phoenix hardware and Phoenix Librarian running side-by-side -->
-<!-- This would make an excellent repository hero image. -->
-
+<p align="center">
+<img src="images/RTAL_Studio_21.jpg" width="900">
+  
 ---
 
 # Recommended GitHub release contents
