@@ -15,6 +15,8 @@ Version **1.0.0** is the first frozen stable release basis.
 
 > The central design goal was not to replace Phoenix, but to make editing, library maintenance and preparation of Phoenix content faster, safer and more visual while keeping the hardware sampler fully independent.
 
+<p align="center">
+<img src="images/RTAL_Wellenbad_Waveform-Editor.JPG" width="900">  
 ---
 
 ## Contents
